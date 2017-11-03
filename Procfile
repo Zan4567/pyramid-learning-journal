@@ -1,1 +1,1 @@
-web: ./run.exe
+web: bash ./run.exe
